@@ -6,4 +6,4 @@ Este projeto é um desafio proposto pela Alura. O objetivo é criar um codificad
 
 ## Testando o Projeto
 
-Você pode testar este projeto através da página do GitHub Pages. Clique aqui para acessar.
+Você pode testar este projeto através da página do GitHub Pages. https://jose-junio.github.io/Codificador-decodificador-de-texto/.
